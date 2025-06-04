@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1677-matrix-diagonal-sum](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +71,9 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
