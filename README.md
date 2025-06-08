@@ -58,9 +58,11 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
