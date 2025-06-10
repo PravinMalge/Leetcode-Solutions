@@ -59,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
