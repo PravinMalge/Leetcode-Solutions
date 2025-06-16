@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Matrix
 |  |
