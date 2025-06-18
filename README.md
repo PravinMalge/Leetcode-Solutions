@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
