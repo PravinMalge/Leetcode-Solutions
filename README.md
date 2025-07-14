@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2556-convert-the-temperature](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 ## Matrix
 |  |
 | ------- |
