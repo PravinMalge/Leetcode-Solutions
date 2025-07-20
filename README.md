@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
