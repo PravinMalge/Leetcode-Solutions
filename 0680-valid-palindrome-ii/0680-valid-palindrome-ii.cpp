@@ -1,11 +1,10 @@
 class Solution {
 public:
-    bool checkPalindrome(string s, int i, int j){
-        while(i<=j){
-            if(s[i] != s[j]){
+    bool checkPalindrome(string s, int i, int j) {
+        while (i <= j) {
+            if (s[i] != s[j]) {
                 return false;
-            }
-            else{
+            } else {
                 i++;
                 j--;
             }
@@ -16,11 +15,11 @@ public:
         int i = 0;
         int j = s.length() - 1;
 
-        while(i<=j){
-            if(s[i] != s[j]){
-                return checkPalindrome(s, i+1, j) || checkPalindrome(s, i, j-1);
-            }
-            else{
+        while (i <= j) {
+            if (s[i] != s[j]) {
+                return checkPalindrome(s, i + 1, j) ||
+                       checkPalindrome(s, i, j - 1);
+            } else {
                 i++;
                 j--;
             }
