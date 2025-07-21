@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
