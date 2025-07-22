@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isVowel(char ch){
+    bool isVowel(char ch) {
         ch = tolower(ch);
         return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
     }
@@ -9,20 +9,17 @@ public:
         int low = 0;
         int high = s.size() - 1;
 
-        while(low < high){
-            if(isVowel(s[low]) && isVowel(s[high])){
+        while (low < high) {
+            if (isVowel(s[low]) && isVowel(s[high])) {
                 swap(s[low], s[high]);
                 low++;
                 high--;
-            }
-            else if(isVowel(s[low]) == 0){
+            } else if (isVowel(s[low]) == 0) {
                 low++;
-            }
-            else{
+            } else {
                 high--;
             }
         }
         return s;
-
     }
 };
