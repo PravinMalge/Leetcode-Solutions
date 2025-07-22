@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 ## Greedy
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
