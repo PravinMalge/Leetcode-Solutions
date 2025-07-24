@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2556-convert-the-temperature](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PravinMalge/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
